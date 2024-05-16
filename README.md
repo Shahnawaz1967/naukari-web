@@ -75,6 +75,6 @@ This project is created within a team of two members.
 
 ##  📚`Feedback`
 
-If you have any feedback, please reach out to us at prachirajput210497@gmail.com /
-ashahnawaz010@gmail.com /jyotipathak604@gmail.com
+If you have any feedback, please reach out to us at ashahnawaz010@gmail.com /jyotipathak604@gmail.com
+
 
