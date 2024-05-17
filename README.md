@@ -1,33 +1,25 @@
-# 💫`Naukari.com Website Clone`
-This project is a clone of Naukri.com, a popular online job portal in India. It aims to replicate the core functionalities of Naukri.com, providing a platform for job seekers and employers to connect.
+# 💫`Wish webApp`
+This project is like ecommerce Website which name is Wish WebApp in which Users can choose any product to complete thier wish means user can buy the product in this wish WebApp. in Wish WebApp there is Home Products and about page. if User want to buy some product then at first user will have to signup and after that user will able login and buy the products which user want .
 
-Features:
+# Features:
 
-Job Search: 
+User has options to select category like if user buy some furniture related stuff users can cliack on furtiture category user can Add Multiple to product to the cart and buy.
+ 
+User can feel seamless experience because it is responsive website .
 
-Users can search for jobs based on various criteria such as location, industry, and experience level.
-Resume 
-Upload:
-Job seekers can upload their resumes to showcase their skills and experiences to potential employers.
-Job
-Posting:
+user can see their Product how many user can see their how many products selected in cart.
 
-Employers can post job listings, reaching a wide audience of job seekers.
-
-Communication Tools:
-The platform facilitates communication between employers and candidates, streamlining the hiring process.
-
-
-This is the our first page of naukri clone without login
-
-
+# images of Home page 
 ![Without lpgin](https://github.com/Shahnawaz1967/naukari-web/assets/127391541/a4337ff6-f1f4-4154-8d28-5127a92779d4)
 
-This is the page of naukri.com after sign in
+# images  of Signup and Signin
 
+# images of products page
 
+# images of about page
 
-![Login](https://github.com/Shahnawaz1967/naukari-web/assets/127391541/79014f1b-4ee7-486c-a127-85cef81c2e6d)
+# images of some of routes 
+
 
 ##  🌿 `Project Folder Structure`
 1. [src/app.js]  in this page all the components are imported and applied Rotes
@@ -37,6 +29,12 @@ This is the page of naukri.com after sign in
 5. [components folder]  in which we make pages for like functions.
 
 ## 🌐 `Languages and Tools used`
+  - React:-Javasript library which used to make Ui.
+  - Redux:-Redux is state management tool for manage state.
+  - React-Router:- for Routing go to different pages
+  - Tailwind Css:- Utility Css frameWork which used for styling the webapge of the wishWebApp and make responsive Project.
+  - Axios : For managing API and integration of Api
+  - React icons: we use react-icons because for icons. 
 
 
 ## 🔧 `Project Clonning and Running`
@@ -62,11 +60,11 @@ This is the page of naukri.com after sign in
 
 ## ✨`Deployment`
 
-**Link to visit Youtube Subscriber video**: https://youtu.be/TwfUPNQJavw
+**Link to visit Youtube Subscriber video**: paste video link
 
-**Web Deployed Link**: https://get-youtube-subscribers-sjg7.onrender.com/
+**Web Deployed Link**: https://get-youtube-subscribers-sjg7.onrender.com/ paste deployment link
 
-**API Schema Documentation** : https://documenter.getpostman.com/view/22294077/2s9YXpVyoR
+**API Schema Documentation** : https://documenter.getpostman.com/view/22294077/2s9YXpVyoR docomentaion
 
 ## 🎋 `COLLABORATORS`
 This project is created within a team of two members.
